@@ -18,7 +18,7 @@ function validation(){
         form.style.transition='.3s'
         
     }
-    if(inpt == arr){
+    if(inpt){
         // window.open("winchat-main/index.html")
         overlay.style.display='block'
     }
